@@ -1,6 +1,6 @@
 # ML Lab Test Q3- Online-Shoppers-Purchasing-Intention
 
-In this project, we aim to predict the purchasing intention of online shoppers using various classification models. The dataset consists of feature vectors belonging to 12,330 sessions, with each session belonging to a different user in a 1-year period to avoid any tendency to a specific campaign, special day, user profile, or period.
+In this project, we aim to predict the purchasing intention of online shoppers using various classification models. The dataset consists of feature vectors belonging to 12,330 sessions, with each session belonging to a different user in a 1-year period to avoid any tendency to a specific campaign, special day, user profile, or period. The dataset is available [here](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset).
 
 ## Data Preparation
 
