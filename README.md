@@ -28,7 +28,7 @@ We analyzed the performance of the Random Forest model to determine if it overfi
 
 ## Clustering
 
-We performed clustering on the dataset by ignoring the class label. We used various clustering algorithms, including K-Means, DBSCAN, and Hierarchical Clustering, to identify patterns and groups in the data. We measured the performance of the clustering models using silhouette score and found that K-Means with k=5 had the highest score.
+We performed clustering on the dataset by ignoring the class label. We used K-Means Clustering to identify patterns and groups in the data. We measured the performance of the clustering models using silhouette score and found that K-Means with k=2 had the highest score. However, on application of the Elbow Method to find the optimal # of clusters, we found it to be 6. Data distributions with both these cluster numbers have been plotted, and it has been observed that there is comparatively less overlap when k=6.
 
 ## Conclusion
 
